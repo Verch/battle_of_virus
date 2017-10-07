@@ -1,1 +1,1 @@
-battle_of_virus
+BattleOfVirus
